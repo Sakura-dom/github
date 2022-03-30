@@ -1,0 +1,1 @@
+import{E as n,G as o}from"./vendor.f0b6f500.js";function r(e,s,t){n.confirm(e,s,{confirmButtonText:"\u786E\u5B9A",cancelButtonText:"\u53D6\u6D88"}).then(t)}function u(e,s,t){n.alert(e,s,{confirmButtonText:"\u786E\u5B9A",callback:t})}function c(e,s){o({message:e,type:s})}function f(e){o.error(e)}export{r as M,f as a,c as b,u as c};
